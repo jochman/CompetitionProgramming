@@ -12,8 +12,8 @@ public class ArrayQuestions {
     }
 
     private static Boolean CheckRepeating(String arg) {
-        HashSet<Character> hashSet = new HashSet<>();
         if (arg.length() > ASCII_SIZE) return true;
+        HashSet<Character> hashSet = new HashSet<>();
         for(Character ch: arg.toCharArray()) {
             if (hashSet.contains(ch)) {
                 return true;
