@@ -21,10 +21,8 @@ def get_number():
     except ValueError:
         return float(data)
 
-
+# Save all of the results instead of calculate them every time
 cache = {}
-
-
 def memoize(f):
     return lambda *args: cache[args] if args in cache else cache.update({args: f(*args)}) or cache[args]
 
