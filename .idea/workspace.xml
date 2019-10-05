@@ -1,32 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b49db60-7cd3-474e-8dc2-e56970dc4759" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/IEEE/Bear Sums/BearSums.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IEEE/Bear Sums/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IEEE/DrawingRootedBinaryTrees/DrawingRootedBinaryTrees.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IEEE/ShoePairs/ShoePairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IEEE/ShoePairs/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IEEE/ShoePairs/results.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProcessesQueue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SortingProblem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/barh/Second/BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/barh/Second/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/barh/Second/Modulus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/barh/Second/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/barh/Second/SortingQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
+    <list default="true" id="0b49db60-7cd3-474e-8dc2-e56970dc4759" name="Default Changelist" comment="added trollcoder">
+      <change afterPath="$PROJECT_DIR$/IEEE/DogWalking/DogWalking.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CompetitionProgramming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CompetitionProgramming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/ArrayQuestions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/ArrayQuestions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/MiddlePartArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/MiddlePartArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CompetitionProgramming/com/barh/MiddlePartArrayTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/barh/ArrayQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/barh/First/ArrayQuestions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/barh/MiddlePartArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/barh/First/MiddlePartArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Bear Sums/BearSums.png" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/BearSums/BearSums.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Bear Sums/BearSums.py" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/BearSums/BearSums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Bear Sums/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/BearSums/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Troll Coder/TrollCoder.png" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Troll Coder/TrollCoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/Troll Coder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/TrollCoder/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,25 +25,12 @@
   <component name="FavoritesManager">
     <favorites_list name="CompetitionProgramming" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/barh/check_replace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Python Script" />
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -70,35 +42,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/barh/check_replace.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1P6JIFpeilcCBIhnFXvGwIwDXVI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -122,7 +67,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5597701" />
-    <property name="settings.editor.selected.configurable" value="pyconsole" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -132,11 +77,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/IEEE/Troll Coder" />
       <recent name="$PROJECT_DIR$/IEEE/Bear Sums" />
       <recent name="$PROJECT_DIR$/IEEE/ShoePairs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/com/barh/First" />
-      <recent name="$PROJECT_DIR$/src/com/barh/1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -151,19 +96,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.checkjson">
-    <configuration name="Tahat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.barh.Tahat" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.barh.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Python.DogWalking">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.barh.Test" />
       <extension name="coverage">
@@ -189,6 +122,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DogWalking" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitionProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEEE/DogWalking" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IEEE/DogWalking/DogWalking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rumour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitionProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEEE/Rumour" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IEEE/Rumour/Rumour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrollCoder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitionProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEEE/Troll Coder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IEEE/Troll Coder/TrollCoder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="CompetitionProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,54 +201,18 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="checkjson" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CompetitionProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checkjson.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pririty_line" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CompetitionProgramming" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProcessesQueue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.checkjson" />
-      <item itemvalue="Python.pririty_line" />
+      <item itemvalue="Python.TrollCoder" />
+      <item itemvalue="Python.Rumour" />
+      <item itemvalue="Python.DogWalking" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DogWalking" />
+        <item itemvalue="Python.Rumour" />
+        <item itemvalue="Python.TrollCoder" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -280,6 +234,7 @@
       <workItem from="1567607534775" duration="1897000" />
       <workItem from="1567611086407" duration="200000" />
       <workItem from="1569416182426" duration="391000" />
+      <workItem from="1570262120710" duration="7286000" />
     </task>
     <task id="LOCAL-00001" summary="add gitignore">
       <created>1563513742664</created>
@@ -288,45 +243,43 @@
       <option name="project" value="LOCAL" />
       <updated>1563513742665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add gitignore">
+      <created>1570262144916</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570262144916</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added trollcoder">
+      <created>1570278921316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570278921316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add png">
+      <created>1570279138014</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570279138014</updated>
+    </task>
+    <task id="LOCAL-00005" summary="png">
+      <created>1570279186244</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570279186244</updated>
+    </task>
+    <task id="LOCAL-00006" summary="names">
+      <created>1570279254958</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570279254958</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32970297" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32970297" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -337,12 +290,6 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -366,47 +313,42 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="added trollcoder" />
+    <MESSAGE value="add png" />
+    <MESSAGE value="png" />
+    <MESSAGE value="names" />
+    <option name="LAST_COMMIT_MESSAGE" value="names" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/barh/check_replace.java</url>
-          <line>6</line>
-          <properties />
-          <option name="timeStamp" value="7" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/barh/check_replace.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="8" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/barh/check_replace.java</url>
-          <line>4</line>
-          <properties />
-          <option name="timeStamp" value="9" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/IEEE/DogWalking/DogWalking.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="correct_guesses" />
+        <watch expression="new_correct_guesses" />
+      </configuration>
+    </watches-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/openjdk-13.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="2146" column="18" selection-start-line="2146" selection-start-column="18" selection-end-line="2146" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/barh/check_replace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CompetitionProgramming$DogWalking.coverage" NAME="DogWalking Coverage Results" MODIFIED="1570284035754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IEEE/DogWalking" />
+    <SUITE FILE_PATH="coverage/CompetitionProgramming$TrollCoder.coverage" NAME="TrollCoder Coverage Results" MODIFIED="1570278567011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/IEEE/Troll Coder" />
   </component>
   <component name="masterDetails">
     <states>
