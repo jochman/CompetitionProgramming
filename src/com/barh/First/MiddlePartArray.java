@@ -1,4 +1,4 @@
-package com.barh;
+package com.barh.First;
 
 public class MiddlePartArray {
     // Given an even numbered array, return the index at
