@@ -1,3 +1,8 @@
+import sys
+
+sys.setrecursionlimit(sys.getrecursionlimit() * 100)
+
+
 def parser():
     while 1:
         data = list(input().split(' '))
@@ -21,8 +26,11 @@ def get_number():
     except ValueError:
         return float(data)
 
+
 # Save all of the results instead of calculate them every time
 cache = {}
+
+
 def memoize(f):
     return lambda *args: cache[args] if args in cache else cache.update({args: f(*args)}) or cache[args]
 
@@ -35,7 +43,7 @@ def fib(n):
 
 
 counter = get_number()
-while counter > 0:
+while counter:
     steps = get_number()
     print(fib(steps + 1))
     counter -= 1

@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="350444f6-e881-462b-aac9-01148ba1021a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,22 +17,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_tree.py">
+        <entry file="file://$PROJECT_DIR$/Lessons/ProcessesQueue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="95">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lessons/ProcessesQueue.py">
+        <entry file="file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1675">
-              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1500">
+              <caret line="60" selection-start-line="60" selection-end-line="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IEEE/Goldbach/Goldbach.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -49,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/IEEE/Aeneascryptographicdisc/Aeneascryptographicdisc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
+            <state relative-caret-position="1350">
               <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
             </state>
           </provider>
@@ -64,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lessons/GameOfStones/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -79,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="7700">
               <caret line="309" selection-start-line="309" selection-end-line="309" />
             </state>
           </provider>
@@ -99,6 +122,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lessons/GameOfStones/readme.md" />
+        <option value="$PROJECT_DIR$/Lessons/ProcessesQueue.py" />
+        <option value="$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py" />
+        <option value="$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="210" />
     <option name="y" value="141" />
@@ -111,8 +144,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="IEEE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="IEEE" type="462c0819:PsiDirectoryNode" />
+              <item name="BlackgatePenitentiary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="IEEE" type="462c0819:PsiDirectoryNode" />
+              <item name="Goldbach" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="IEEE" type="462c0819:PsiDirectoryNode" />
+              <item name="RunningUpStairs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CompetitionProgramming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CompetitionProgramming" type="462c0819:PsiDirectoryNode" />
+              <item name="IEEE" type="462c0819:PsiDirectoryNode" />
+              <item name="TrollCoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -127,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.GameOfStones">
+  <component name="RunManager" selected="Python.RunningUpStairs">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.barh.Test" />
       <extension name="coverage">
@@ -157,9 +229,6 @@
       <module name="CompetitionProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lessons/GameOfStones" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -197,6 +266,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="RunningUpStairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CompetitionProgramming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IEEE/RunningUpStairs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="CompetitionProgramming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,14 +310,21 @@
     <list>
       <item itemvalue="Python.GameOfStones" />
       <item itemvalue="Python.ProcessesQueue" />
+      <item itemvalue="Python.RunningUpStairs" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.RunningUpStairs" />
+        <item itemvalue="Python.GameOfStones" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0b49db60-7cd3-474e-8dc2-e56970dc4759" name="Default Changelist" comment="" />
+      <changelist id="350444f6-e881-462b-aac9-01148ba1021a" name="Default Changelist" comment="" />
       <created>1563374342088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -254,19 +349,19 @@
       <option name="project" value="LOCAL" />
       <updated>1570611962726</updated>
     </task>
-    <task id="LOCAL-00002" summary="add gitignore">
-      <created>1570262144916</created>
+    <task id="LOCAL-00002" summary="rm shit">
+      <created>1570611988367</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1570262144916</updated>
+      <updated>1570611988367</updated>
     </task>
-    <task id="LOCAL-00003" summary="added trollcoder">
-      <created>1570278921316</created>
+    <task id="LOCAL-00003" summary="fix troll coder">
+      <created>1570613479726</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1570278921316</updated>
+      <updated>1570613479726</updated>
     </task>
     <task id="LOCAL-00004" summary="add png">
       <created>1570279138014</created>
@@ -296,13 +391,13 @@
       <option name="project" value="LOCAL" />
       <updated>1570611931026</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25493333" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +410,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -345,6 +440,99 @@
     <MESSAGE value="names" />
     <MESSAGE value="add pilegame" />
     <MESSAGE value="added trollcoder" />
-    <option name="LAST_COMMIT_MESSAGE" value="added trollcoder" />
+    <MESSAGE value="rm shit" />
+    <MESSAGE value="fix troll coder" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix troll coder" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/html_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/Aeneascryptographicdisc/Aeneascryptographicdisc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="54" column="34" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/GameOfStones/GameOfStones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7700">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/GameOfStones/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="125">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lessons/ProcessesQueue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/Goldbach/Goldbach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/TrollCoder/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/TrollCoder/TrollCoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IEEE/RunningUpStairs/RunningUpStairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
