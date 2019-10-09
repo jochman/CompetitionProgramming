@@ -47,7 +47,8 @@ while count > 0:
         new_correct_guesses = get_number()
         if new_correct_guesses < correct_guesses:
             arr[i] = 0
-        elif new_correct_guesses == total_bits:
+            new_correct_guesses += 1
+        if new_correct_guesses == total_bits:
             query = "A "
             for bit in arr:
                 query += f"{bit} "
