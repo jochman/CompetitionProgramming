@@ -7,3 +7,4 @@
 *.xml
 .mypy
 ./.mypy
+.pytest_cache
