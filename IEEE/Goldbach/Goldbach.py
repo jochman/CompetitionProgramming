@@ -3,7 +3,7 @@ import math
 
 def find_primes(number):
     primes = []
-    for num in range(1, number + 1):
+    for num in range(1, int(number / 2) + 1):
         # prime numbers are greater than 1
         if num > 1:
             for i in range(2, num):
@@ -15,9 +15,9 @@ def find_primes(number):
 
 
 def find_goldbach(number, primes):
-    run_to = math.ceil(len(primes) / 2) + 1
-    first_number = primes[run_to]
-    i = run_to - 1
+    run_to = len(primes)
+    first_number = primes[-1]
+    i = run_to - 2
     while i > 0:
         j = 0
         while j < i:
