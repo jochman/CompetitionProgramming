@@ -1,61 +1,54 @@
-# a simple parser for python. use get_number() and get_word() to read
-def parser():
-    while 1:
-        data = list(input().split(" "))
-        for number in data:
-            if len(number) > 0:
-                yield (number)
+import math
 
 
-input_parser = parser()
+def to_polar(r, theta):
+    """Gets radian of the spin
+
+    :param r: radius
+    :param theta:
+    :return: angle in radians
+    """
+    return r * math.cos(theta), r * math.sin(theta)
 
 
-def get_word():
-    global input_parser
-    return next(input_parser)
+def calculate_distance(args):
+    """Gets distance from (x1, y1) to (x2, y2)
+
+    :param args:
+    :return: distance
+    """
+    # Unpack values
+    x1, y1, x2, y2 = args[0][0], args[0][1], args[1][0], args[1][1]
+    return math.sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2))
 
 
-def get_number():
-    data = get_word()
-    try:
-        return int(data)
-    except ValueError:
-        return float(data)
+RADIUS = float(input())
 
+COORDINATES = {0: (0, 0)}
+for i in range(26):
+    # Get letter and position
+    letter, theta = input().split()
+    # calculate radian
+    theta = math.radians(float(theta))
+    # calculate polar r*(cos, sin) and apply to the dict
+    COORDINATES[letter] = to_polar(RADIUS, theta)
 
-PI = 3.14
-radius = get_number()
-# Get ABC
-crypt = {}
-count = 0
-while count < 26:
-    k = get_word()
-    crypt[k] = get_number()
-    count += 1
-total_degrees = 0
+DISTANCES = {}  # Example: {(A, B): 15.2}
+for letter1 in COORDINATES.keys():
+    """Calculate all distances from any letter to any letter.
+    (will decrease future time)
+    """
+    for letter2 in COORDINATES.keys():
+        DISTANCES[letter1, letter2] = \
+            calculate_distance((COORDINATES[letter1], COORDINATES[letter2]))
 
-word_to_calculated = get_word()
-last_letter = word_to_calculated[0]
-for letter in word_to_calculated[1:]:
-    if letter in crypt:
-        old_deg = crypt[last_letter]
-        new_deg = crypt[letter]
-        if last_letter == letter:
-            pass
-        # new letter is higher than old letter swap
-        if new_deg < old_deg:
-            new_deg, old_deg = old_deg, new_deg
-        if new_deg - old_deg <= old_deg - new_deg + 360:
-            total_degrees += new_deg - old_deg
-        else:
-            total_degrees += old_deg - new_deg + 360
-one_round = PI * 2 * radius
-if total_degrees > 360:
-    total_full_round = int(total_degrees/360)
-    leftover = total_degrees % 360
-else:
-    total_full_round = 0
-    leftover = total_degrees
+PHRASE_TO_CALCULATE = input().strip().upper()
+TOTAL_TRAVEL = 0
+PREVIOUS_POSITION = 0
+for letter in PHRASE_TO_CALCULATE:
+    # add all distances from DISTANCES dict to TOTAL_TRAVEL
+    if letter.isalpha():
+        TOTAL_TRAVEL += DISTANCES[PREVIOUS_POSITION, letter]
+        PREVIOUS_POSITION = letter
 
-total_size = int(total_full_round + (2 * PI * radius) * (leftover/360))
-print(total_size)
+print(int(TOTAL_TRAVEL) + 1)
