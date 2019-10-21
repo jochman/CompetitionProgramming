@@ -2,9 +2,10 @@ class HTML:
     inbound = list()
     outbound = list()
 
-    def __init__(self, data):
+    def __init__(self, data, outbound):
         assert data is not None
         self.data = data
+        self.outbound = outbound
 
     def __repr__(self):
         return f"{self.data}"
