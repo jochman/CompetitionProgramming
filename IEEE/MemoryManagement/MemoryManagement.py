@@ -33,7 +33,7 @@ while test_cases:
     lru_list = []
     lru_counter = 0
     for page in page_calls:
-        if len(lru_list) and lru_list[0] != page or not len(lru_list):
+        if lru_list and lru_list[0] != page or not len(lru_list):
             if page in lru_list:
                 k = lru_list.index(page)
                 list0, list1, list2 = [page], lru_list[0: k], lru_list[k + 1: len(lru_list)]
